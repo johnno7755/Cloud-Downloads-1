@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-9267",
+  "folder": "Software__com.koga3.grandmashouse-v0.16a_20260521102054_4648c1",
+  "base_name": "Software__com.koga3.grandmashouse-v0.16a_20260521102054_4648c1.apk",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/johnno7755/Cloud-Downloads-1/releases/tag/co-releases-v1-9267",
+  "files": [
+    {
+      "name": "Software__com.koga3.grandmashouse-v0.16a_20260521102054_4648c1.apk",
+      "url": "https://github.com/johnno7755/Cloud-Downloads-1/releases/download/co-releases-v1-9267/Software__com.koga3.grandmashouse-v0.16a_20260521102054_4648c1.apk",
+      "api_url": "https://api.github.com/repos/johnno7755/Cloud-Downloads-1/releases/assets/426050998",
+      "id": 426050998,
+      "size": 35628,
+      "download_count": 0
+    }
+  ]
+}
